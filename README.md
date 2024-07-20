@@ -22,8 +22,8 @@ This project is a PDF to graph plotter for NTA NEET 2024 Supreme Court requested
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/neet-marks-plotter.git
-    cd neet-marks-plotter
+    git clone https://github.com/RealRuthvik//NEET-UG-Marks-PDF-to-Graph-Plotter.git
+    cd NEET-UG-Marks-PDF-to-Graph-Plotter
     ```
 
 2. Install the required Python packages:
