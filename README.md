@@ -60,3 +60,7 @@ The script generates a histogram plot with three different colored bars represen
 - Marks between 0 and 600 (blue)
 
 Additionally, the total number of students scanned is displayed on the plot.
+
+### Sample Output
+
+![Sample Histogram](sample_histogram.png)
