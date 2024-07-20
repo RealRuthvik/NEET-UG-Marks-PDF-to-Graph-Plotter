@@ -2,6 +2,10 @@
 
 This project is a PDF to graph plotter for NTA NEET 2024 Supreme Court requested data. It extracts marks from multiple PDF files, processes the data, and visualizes the distribution of marks using histograms.
 
+### Sample Output
+
+![Sample Histogram](sample_histogram.png)
+
 ## Features
 
 - Extracts marks data from PDF files
@@ -60,7 +64,3 @@ The script generates a histogram plot with three different colored bars represen
 - Marks between 0 and 600 (blue)
 
 Additionally, the total number of students scanned is displayed on the plot.
-
-### Sample Output
-
-![Sample Histogram](sample_histogram.png)
