@@ -13,42 +13,7 @@ This project is a PDF to graph plotter for NTA NEET 2024 Supreme Court requested
 - Plots histograms for negative marks, high marks (>600), and other marks (0 to 600)
 - Displays the total number of students scanned
 
-## Requirements
-
-- Python 3.x
-- `pymupdf`
-- `pandas`
-- `matplotlib`
-- `tkinter`
-
-## Installation
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/RealRuthvik//NEET-UG-Marks-PDF-to-Graph-Plotter.git
-    cd NEET-UG-Marks-PDF-to-Graph-Plotter
-    ```
-
-2. Install the required Python packages:
-
-    ```bash
-    pip install pymupdf pandas matplotlib tk
-    ```
-
-## Usage
-
-1. Run the script:
-
-    ```bash
-    python plot_neet_marks.py
-    ```
-
-2. A file dialog will appear. Select the folder containing the NEET PDF files.
-
-3. The script will process the PDF files, extract the marks data, and display a histogram plot of the marks distribution.
-
-## Script Details
+## How it works
 
 The script performs the following steps:
 
@@ -64,3 +29,4 @@ The script generates a histogram plot with three different colored bars represen
 - Marks between 0 and 600 (blue)
 
 Additionally, the total number of students scanned is displayed on the plot.
+
